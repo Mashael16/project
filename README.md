@@ -4,7 +4,7 @@ project
 
 first i create setup.ps1
 
-(project/image/imagesetup.ps1)
+(project/image/imagesetup.ps1.png)
 
 
 
