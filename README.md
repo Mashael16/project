@@ -4,7 +4,7 @@ project
 
 first i create setup.ps1
 
-!["create script"](imagesetup.ps1)
+!["create script"](imagesetup.png)
 
 
 
