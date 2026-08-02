@@ -4,17 +4,17 @@ project
 
 first i create setup.ps1
 
-(C:\\project\\image\\imagesetup.ps1.png)
+!["create script"](imagesetup.ps1)
 
 
 
 then i create folders and files in comaman
 
-(C:\\project\\image\\createfolders.png)
+!["create file and folder"](createfolders.png)
 
 
 
 after that i init on GitHub 
 
-(project\\image\\gitrepo.png)
+!["commit and push"](gitrepo.png)
 
