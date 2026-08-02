@@ -4,13 +4,13 @@ project
 
 first i create setup.ps1
 
-(project\\image\\imagesetup.ps1.png)
+(C:\\project\\image\\imagesetup.ps1.png)
 
 
 
 then i create folders and files in comaman
 
-(project\\image\\createfolders.png)
+(C:\\project\\image\\createfolders.png)
 
 
 
